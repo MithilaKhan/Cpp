@@ -1,0 +1,1 @@
+      cout <<"sum" <<(pre[s])<< sum <<endl;
